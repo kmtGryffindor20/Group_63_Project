@@ -8,10 +8,10 @@ This project uses Git submodules to manage certain dependencies. A Git submodule
 The submodules used in this project are:
 
 1. Backend
-   - Path: [backend](backend)
+   - Path: `backend`
    - URL: https://github.com/kmtGryffindor20/FilmFusion.git
 2. Frontend
-   - Path: [frontend](frontend)
+   - Path: `frontend`
    - URL: https://github.com/kmtGryffindor20/FilmFusion-Frontend.git
 
 To clone the repository along with its submodules, use the following command:
