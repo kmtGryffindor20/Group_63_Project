@@ -9,10 +9,10 @@ The submodules used in this project are:
 
 1. Backend
    - Path: `backend`
-   - URL: `https://github.com/kmtGryffindor20/FilmFusion.git`
+   - URL: https://github.com/kmtGryffindor20/FilmFusion.git
 2. Frontend
    - Path: `frontend`
-   - URL: `https://github.com/kmtGryffindor20/FilmFusion-Frontend.git`
+   - URL: https://github.com/kmtGryffindor20/FilmFusion-Frontend.git
 
 To clone the repository along with its submodules, use the following command:
 
